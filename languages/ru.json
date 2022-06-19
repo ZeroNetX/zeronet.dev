@@ -1,6 +1,6 @@
 {
-	"ZeroNet: Decentralized websites using Bitcoin crypto and the BitTorrent network": "ZeroNet: Децентрализованные веб-сайты с криптографией Bitcoin и сетью BitTorrent",
-	"Open, free and uncensorable websites,<br>using Bitcoin cryptography and BitTorrent network": "Открытые, бесплатные сайты без цензуры,<br>использующие криптографию Bitcoin и сеть BitTorrent",
+	"ZeroNet: Decentralized websites using Bitcoin crypto and the BitTorrent network": "ZeroNet: Децентрализованные вебсайты, использующие криптографию Bitcoin и протокол BitTorrent",
+	"Open, free and uncensorable websites,<br>using Bitcoin cryptography and BitTorrent network": "Открытые, свободные и неподдающиеся цензуре сайты,<br>использующие криптографию Bitcoin и протокол BitTorrent",
 
 	"Download for Windows": "Скачать для Windows",
 	"Unpack &middot; Run ZeroNet.exe": "Распакуйте &middot; Запустите ZeroNet.exe",
@@ -8,36 +8,36 @@
 	"Other platforms and source code": "Другие платформы и исходный код",
 	"Download for macOS": "Скачать для macOS",
 	"Unpack &middot; Run ZeroNet": "Распакуйте &middot; Запустите ZeroNet",
-	"Unpack &middot; Open Terminal application &middot; Drop ZeroNet on it and press enter.": "Распакуйте &middot; Откройте программу Terminal &middot; Перетащите на неё ZeroNet и нажмите Enter.",
+	"Unpack &middot; Open Terminal application &middot; Drop ZeroNet on it and press enter.": "Распакуйте &middot; Откройте программу Terminal &middot; Перетащите в неё ZeroNet и нажмите Enter.",
 	"Download for Linux 64bit": "Скачать для Linux 64bit",
-	"Install instructions": "Инструкции по установке",
-	"Windows, Linux, Mac supported": "Поддержка Windows, Linux, Mac",
+	"Install instructions": "Инструкция по установке",
+	"Windows, Linux, Mac supported": "Поддерживает Windows, Linux, Mac",
 
 	"Peer-to-Peer": "Пиринговая",
 	"Your content distributed directly to other visitors without any central server.": "Ваше содержимое распространяется напрямую другим посетителям без центрального сервера.",
 
-	"Uncensored": "Без цензуры",
-	"It's nowhere because it's everywhere!": "Данных нет нигде, потому что они везде!",
-	"No hosting costs": "Бесплатный хостинг",
-	"Sites are served by visitors.": "Сайты хранятся посетителями.",
+	"Uncensored": "Устойчивая к цензуре",
+	"It's nowhere because it's everywhere!": "Он нигде, потому что он везде!",
+	"No hosting costs": "Нет затрат на хостинг",
+	"Sites are served by visitors.": "Сайты обслуживаются посетителями.",
 	"Always accessible": "Всегда доступна",
-	"No single point of failure.": "Нет слабого звена.",
+	"No single point of failure.": "Нет единой точки отказа.",
 
 	"Simple": "Простая",
-	"No configuration needed:": "Без конфигурации сети:",
+	"No configuration needed:": "Не требуется настройка:",
 	"Download, unpack and start using it.": "Скачайте, распакуйте и начните пользоваться.",
 
 	".bit domains": ".bit домены",
-	"Decentralized domains using Namecoin cryptocurrency.": "Децентрализрванные домены, использующие криптовалюту Namecoin.",
+	"Decentralized domains using Namecoin cryptocurrency.": "Децентрализованные домены, использующие криптовалюту Namecoin.",
 
 	"No passwords": "Без паролей",
-	"Your account is protected by the same cryptography as your Bitcoin wallet.": "Ваш аккаунт защищён той же криптографией, как и Ваш кошелёк Bitcoin.",
+	"Your account is protected by the same cryptography as your Bitcoin wallet.": "Ваша учетная запись защищена той же криптографией, что и ваш Bitcoin-кошелек.",
 
 	"Fast": "Быстрая",
-	"Page response time is not limited by your connection speed.": "Время загрузки страницы не зависит от скорости соединения.",
+	"Page response time is not limited by your connection speed.": "Время загрузки страницы не ограничена скоростью вашего подключения.",
 
 	"Dynamic content": "Динамическое содержимое",
-	"Real-time updated, multi-user websites.": "Обновляющиеся в реальном времени, многопользовательские веб-сайты.",
+	"Real-time updated, multi-user websites.": "Обновляющиеся в реальном времени, многопользовательские вебсайты.",
 
 	"How does it work?": "Как это работает?",
 
@@ -45,18 +45,18 @@
 	"Supports any modern browser on<br>Windows, Linux or Mac platforms.": "Поддерживает любой современный браузер на Windows, Linux и Mac.",
 
 	"Anonymity": "Анонимная",
-	"You can easily hide your IP address using the Tor network.": "Вы можете легко скрыть свой IP адрес, используя Tor.",
-	"Read the FAQ": "Прочитайте ЧАВО",
+	"You can easily hide your IP address using the Tor network.": "Вы можете легко скрыть свой IP адрес, используя сеть Tor.",
+	"Read the FAQ": "ЧаВО",
 
-	"Offline": "Автономная",
-	"Browse the sites you&#39;re seeding even if your internet connection is down.": "Просматривайте сайты, которые вы скачали, даже если нет Интернета.",
+	"Offline": "Работает офлайн",
+	"Browse the sites you&#39;re seeding even if your internet connection is down.": "Просматривайте сайты, которые вы скачали, даже если у вас нет Интернета.",
 
 	"Open Source": "Открытая",
 	"Developed by the community for the community.": "Разрабатывается сообществом для сообщества.",
-	"Please donate to keep this project alive": "Пожертвуйте, чтобы поддержать проект.",
+	"Please donate to keep this project alive": "Поддержать проект",
 
-	"We believe in": "Наша вера в",
-	"open, free, and uncensored": "открытую, бесплатную сеть",
-	"network and communication.": "и связь без цензуры."
+	"We believe in": "Мы верим в",
+	"open, free, and uncensored": "открытую, свободную и неподдающуюся цензуре",
+	"network and communication.": "сеть и связь."
 
 }
